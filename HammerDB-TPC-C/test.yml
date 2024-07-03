@@ -5,7 +5,7 @@ display_name: "MSSQL 12vcpu_64gb 6x512g 500wh_32vu"
 summary:
   Run MSSSQL
 
-description: ""
+description: "Simulate a datacenter virtualization workload with a variety of workload intensity"
 
 tags:
   - performance
